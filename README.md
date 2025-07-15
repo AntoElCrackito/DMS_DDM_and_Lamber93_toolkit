@@ -8,9 +8,9 @@
 
 ## 📑 Table des matières / Table of content
 
-- [🇫🇷 Français](#français)
+- [🇫🇷 Français](#francais)
   - [Description](#description)
-  - [Fonctionnalités principales](#fonctionnalités-principales)
+  - [Fonctionnalités principales](#fonctionnalites-principales)
   - [Installation](#installation)
 - [🇬🇧 English](#english)
   - [Description](#description-1)
@@ -37,7 +37,7 @@
 - Initialiser une destination depuis des coordonnées DDM saisies.
 - Transformer des coordonnées Lambert93 en coordonnées DMS.
 - Transformer des coordonnées Lambert93 en coordonnées DDM.
-- Les onglets de transformation de coordonnées Lambert93 sont réalisés afin de coller les coordonnées copiées depuis l'interface du projet (Appuyer longuement sur un point de la carte, copier les coordonnées Lambert93 du projet). En outre, il n'est pas nécessaire de chercher à coller propremement des coordonnées, cela permet de gagner du temps sur la saisie.
+- Les onglets de transformation de coordonnées Lambert93 sont réalisés afin de coller les coordonnées copiées depuis l'interface du projet (Appuyer longuement sur un point de la carte, copier les coordonnées Lambert93 du projet). En outre, il n'est pas nécessaire de chercher à coller proprement des coordonnées, cela permet de gagner du temps sur la saisie.
 
 ---
 
