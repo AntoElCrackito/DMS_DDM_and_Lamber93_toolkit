@@ -8,14 +8,14 @@
 
 ## 📑 Table des matières / Table of content
 
-- [🇫🇷 Français](#francais)
+- [🇫🇷 Français](#français)
   - [Description](#description)
-  - [Fonctionnalités principales](#fonctionnalites-principales)
-  - [Installation](#installation)
+  - [Fonctionnalités principales](#-fonctionnalités-principales)
+  - [Installation](#-installation)
 - [🇬🇧 English](#english)
   - [Description](#description-1)
-  - [Main functionalities](#main-functionalities)
-  - [Install](#install)
+  - [Main functionalities](#-main-functionalities)
+  - [Install](#-install)
 
 ---
 
